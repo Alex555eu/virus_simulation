@@ -23,7 +23,7 @@ is healthy. The direction and velocity of every subject is random, and can chang
 
 <br/>
 
-**Chances of getting infected after meeting above criteria by subject:**
+**Chance of getting infected after meeting above criteria by subject:**
 - with symptoms is 100%
 - with no symptoms is 50%, and after a failed attempt, the next one begins as if targeted healthy subject 
 just entered infection area for the first time
